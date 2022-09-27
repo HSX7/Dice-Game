@@ -1,0 +1,86 @@
+body{
+  margin: 0;
+  background-color: #355764;
+  padding-right: 600px;
+}
+
+.profilePic{
+height: 13rem;
+margin-left: 20px;
+margin-top: 20px;
+}
+
+.h1-1{
+
+
+position: relative;
+bottom: 170px;
+left: 550px;
+color: #00FFD1;
+font-family: 'Handlee', cursive;
+font-size: 3rem;
+}
+
+.dice1{
+  text-align: center;
+  display: inline-block;
+  position: absolute;
+  bottom:100px;
+  right:850px;
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+}
+
+.dice2{
+  text-align: center;
+  display: inline-block;
+  position: absolute;
+  bottom:100px;
+  left:850px;
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+}
+
+p{
+  color: #00FFD1;
+  font-family: 'Playfair Display', serif;
+}
+
+.footer-countainer{
+
+background:#0F3D3E;
+width: 1349px;
+position: relative;
+top: 200px;
+padding-top:6px;
+}
+
+.github-link{
+  color: #F9F9F9;
+  text-decoration: none;
+  margin-left: 600px;
+}
+
+.github-link:hover{
+  color: #8758FF;
+}
+
+.copyRight{
+   color: #F8EDE3;
+   margin-left: 550px;
+
+}
+
+.copyRight:hover{
+  color: #8758FF;
+}
+
+.linkedin{
+  text-decoration: none;
+  color: #F9F9F9;
+  margin-left: 600px;
+}
+
+.linkedin:hover{
+  color: #8758FF;
+}
